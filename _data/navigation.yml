@@ -1,0 +1,40 @@
+# main links
+main:
+  - title: "Releases"
+    url: /releases/
+  - title: "Wiki"
+    url: /wiki/
+
+#wiki sidebar
+wiki:
+  - title: "Releases"
+    url: /releases/
+    children:
+      - title: "Imperius' Return"
+        url: /releases/imperius-return
+      - title: "The Convolution"
+        url: /releases/the-convolution
+  - title: "Getting Started"
+    children:
+      - title: "What is Imperius' Return?"
+        url: /what-is-imperius-return
+      - title: "What is The Convolution?"
+        url: /what-is-the-convolution
+      - title: "Installation"
+        url: /wiki/installation-guide
+  - title: "Entities"
+    url: /wiki/entity/
+    children:
+      - title: "Pixie"
+        url: /wiki/entity/pixie
+      - title: "Butterfly"
+        url: /wiki/entity/butterfly
+      - title: "Rat"
+        url: /wiki/entity/rat
+  - title: "Magic"
+    url: /wiki/magic/
+    children:
+      - title: "Spells"
+        url: /wiki/magic/spells/
+      - title: "Shield"
+        url: /wiki/magic/shield
