@@ -19,20 +19,20 @@ wiki:
       - title: "What is The Convolution?"
         url: /what-is-the-convolution
       - title: "Installation"
-        url: /wiki/installation-guide
+        url: /artefact/wiki/installation-guide
   - title: "Entities"
-    url: /wiki/entity/
+    url: /artefact/wiki/entity/
     children:
       - title: "Pixie"
-        url: /wiki/entity/pixie
+        url: /artefact/wiki/entity/pixie
       - title: "Butterfly"
-        url: /wiki/entity/butterfly
+        url: /artefact/wiki/entity/butterfly
       - title: "Rat"
-        url: /wiki/entity/rat
+        url: /artefact/wiki/entity/rat
   - title: "Magic"
-    url: /wiki/magic/
+    url: /artefact/wiki/magic/
     children:
       - title: "Spells"
-        url: /wiki/magic/spells/
+        url: /artefact/wiki/magic/spells/
       - title: "Shield"
-        url: /wiki/magic/shield
+        url: /artefact/wiki/magic/shield
