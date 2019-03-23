@@ -10,8 +10,8 @@ categories:
 toc: true
 author_profile: false
 sidebar:
-  title: "Wiki"
-  nav: wiki
+  title: "Artefact Wiki"
+  nav: wiki-artefact
 ---
 
 Spells are used as combinations of 3 left and right clicks. They take away mana when used.

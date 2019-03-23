@@ -19,7 +19,7 @@ sidebar:
 -----
 
 #### [Download current master branch](https://github.com/origamistudio/imperius-return/archive/master.zip) found at [origamistudio/imperius-return](https://github.com/origamistudio/imperius-return)  
-#### [How to Install](https://origamistudio.github.io/artefact/wiki/installation-guide#imperius-return)
+#### [How to Install](https://origamistudio.github.io/installation-guide#imperius-return)
 
 -----
 

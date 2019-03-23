@@ -13,8 +13,8 @@ categories:
 toc: false
 author_profile: false
 sidebar:
-  title: "Wiki"
-  nav: wiki
+  title: "Artefact Wiki"
+  nav: wiki-artefact
 ---
 
 The inferno spell spits out fire blocks, dealing normal and fire damage to nearby mobs.

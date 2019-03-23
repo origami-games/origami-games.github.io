@@ -13,8 +13,8 @@ categories:
 toc: false
 author_profile: false
 sidebar:
-  title: "Wiki"
-  nav: wiki
+  title: "Artefact Wiki"
+  nav: wiki-artefact
 ---
 
 The discharge spell blasts you up into the sky with the force of a creeper, damaging nearby entities.

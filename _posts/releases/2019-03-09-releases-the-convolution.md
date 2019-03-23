@@ -19,6 +19,6 @@ sidebar:
 -----
 
 #### [Download current master branch](https://github.com/origamistudio/the-convolution/archive/master.zip) found at [origamistudio/the-convolution](https://github.com/origamistudio/the-convolution)  
-#### [How to Install](https://origamistudio.github.io/artefact/wiki/installation-guide#the-convolution)
+#### [How to Install](https://origamistudio.github.io/installation-guide#the-convolution)
 
 -----

@@ -19,7 +19,17 @@ wiki:
       - title: "What is The Convolution?"
         url: /what-is-the-convolution
       - title: "Installation"
-        url: /artefact/wiki/installation-guide
+        url: /installation-guide
+wiki-artefact:
+  - title: "Artefact"
+    url: /artefact/wiki/
+    children:
+      - title: "Releases"
+        url: /releases/imperius-return
+      - title: "Installation"
+        url: /installation-guide
+      - title: "What is Imperius' Return?"
+        url: /what-is-imperius-return
   - title: "Entities"
     url: /artefact/wiki/entity/
     children:

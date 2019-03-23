@@ -1,7 +1,7 @@
 ---
 title: "Installation Guide"
 excerpt: "How to quickly install and setup Artefact"
-permalink: /artefact/wiki/installation-guide
+permalink: /installation-guide
 categories:
   - Information
   - Documentation
@@ -15,7 +15,7 @@ sidebar:
   nav: wiki
 ---
 
-**Important:** These maps uses the Minecraft 1.14 or higher. You must play in the latest snapshot or, if 1.14 has been released, the latest release.
+**Important:** These maps use Minecraft 1.14 or higher. You must play in the latest snapshot or, if 1.14 has been released, the latest release.
 {: .notice--warning}
 
 ## **Imperius' Return**

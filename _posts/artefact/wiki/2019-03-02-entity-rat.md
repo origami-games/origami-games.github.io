@@ -12,8 +12,8 @@ categories:
 toc: true
 author_profile: false
 sidebar:
-  title: "Wiki"
-  nav: wiki
+  title: "Artefact Wiki"
+  nav: wiki-artefact
 ---
 
 ### Summary

@@ -13,8 +13,8 @@ categories:
 toc: false
 author_profile: false
 sidebar:
-  title: "Wiki"
-  nav: wiki
+  title: "Artefact Wiki"
+  nav: wiki-artefact
 ---
 
 Shoots you up into the sky and spawns lightning bolts around you.

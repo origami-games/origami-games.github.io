@@ -11,8 +11,8 @@ categories:
 toc: false
 author_profile: false
 sidebar:
-  title: "Wiki"
-  nav: wiki
+  title: "Artefact Wiki"
+  nav: wiki-artefact
 ---
 
 The magic shield *could* be classified as a spell. It rises evocation fangs around the player, and gives the player complete resistance to any damage.  

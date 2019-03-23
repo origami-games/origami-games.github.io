@@ -13,8 +13,8 @@ categories:
 toc: false
 author_profile: false
 sidebar:
-  title: "Wiki"
-  nav: wiki
+  title: "Artefact Wiki"
+  nav: wiki-artefact
 ---
 
 The tornado spell pushes nearby mobs away from you and up. This sometimes deals fall damage to them.
