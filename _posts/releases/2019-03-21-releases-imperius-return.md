@@ -26,7 +26,7 @@ sidebar:
 **Notice:** The Artefact development server is open 24/7! Join it at `artefact-development.serv.gs`
 {: .notice--info}
 
-### [Source v0.0.0.7-pre](https://github.com/origami-games/imperius-return/archive/src-v0.0.0.7-pre.zip)
+### [Source v0.0.0.7-pre](https://github.com/origami-games/imperius-return/tree/src-v0.0.0.7-pre)
 ##### [Download](https://github.com/origami-games/imperius-return/archive/src-v0.0.0.7-pre.zip)
 #### Bug Fixes
 - [[#10]](https://github.com/origami-games/imperius-return/issues/10) Goblin summon button in command menu references wrong function
