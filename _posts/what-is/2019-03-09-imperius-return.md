@@ -13,8 +13,8 @@ sidebar:
 
 -----
 
-#### [Releases](https://origamistudio.github.io/releases/imperius-return)
-#### [Download current master branch](https://github.com/origamistudio/imperius-return/archive/master.zip) found at [origamistudio/imperius-return](https://github.com/origamistudio/imperius-return)  
+#### [Releases](https://origami-games.github.io/releases/imperius-return)
+#### [Download current master branch](https://github.com/origami-games/imperius-return/archive/master.zip) found at [origami-games/imperius-return](https://github.com/origami-games/imperius-return)  
 
 -----
 

@@ -14,10 +14,10 @@ sidebar:
 ---
 
 ### Contents
-- [Spells](https://origamistudio.github.io/artefact/wiki/magic/spells/)
-  - [Discharge](https://origamistudio.github.io/artefact/wiki/magic/spells/discharge)
-  - [Sprint](https://origamistudio.github.io/artefact/wiki/magic/spells/sprint)
-  - [Tornado](https://origamistudio.github.io/artefact/wiki/magic/spells/tornado)
-  - [Inferno](https://origamistudio.github.io/artefact/wiki/magic/spells/inferno)
-  - [Submerge](https://origamistudio.github.io/artefact/wiki/magic/spells/submerge)
-  - [Blitz](https://origamistudio.github.io/artefact/wiki/magic/spells/blitz)
+- [Spells](https://origami-games.github.io/artefact/wiki/magic/spells/)
+  - [Discharge](https://origami-games.github.io/artefact/wiki/magic/spells/discharge)
+  - [Sprint](https://origami-games.github.io/artefact/wiki/magic/spells/sprint)
+  - [Tornado](https://origami-games.github.io/artefact/wiki/magic/spells/tornado)
+  - [Inferno](https://origami-games.github.io/artefact/wiki/magic/spells/inferno)
+  - [Submerge](https://origami-games.github.io/artefact/wiki/magic/spells/submerge)
+  - [Blitz](https://origami-games.github.io/artefact/wiki/magic/spells/blitz)

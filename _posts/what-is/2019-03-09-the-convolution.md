@@ -13,8 +13,8 @@ sidebar:
 
 -----
 
-#### [Releases](https://origamistudio.github.io/releases/the-convolution)
-#### [Download current master branch](https://github.com/origamistudio/the-convolution/archive/master.zip) found at [origamistudio/the-convolution](https://github.com/origamistudio/the-convolution)  
+#### [Releases](https://origami-games.github.io/releases/the-convolution)
+#### [Download current master branch](https://github.com/origami-games/the-convolution/archive/master.zip) found at [origami-games/the-convolution](https://github.com/origami-games/the-convolution)  
 
 -----
 

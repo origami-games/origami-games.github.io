@@ -31,4 +31,4 @@ Spawns a sheet of ice above you that rains acid rain.
 | Numerical ID         | `4`                  | N/A         |
 
 #### Gallery
-![submerge_1.png](https://origamistudio.github.io/assets/images/screenshots/spells/submerge_1.png)
+![submerge_1.png](https://origami-games.github.io/assets/images/screenshots/spells/submerge_1.png)

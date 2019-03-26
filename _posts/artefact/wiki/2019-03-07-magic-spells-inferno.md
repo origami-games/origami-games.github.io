@@ -31,4 +31,4 @@ The inferno spell spits out fire blocks, dealing normal and fire damage to nearb
 | Numerical ID         | `3`                  | N/A         |
 
 #### Gallery
-![inferno_1.png](https://origamistudio.github.io/assets/images/screenshots/spells/inferno_1.png)
+![inferno_1.png](https://origami-games.github.io/assets/images/screenshots/spells/inferno_1.png)

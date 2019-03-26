@@ -1,2 +1,2 @@
-# origamistudio.github.io
-Origami Studios Web Content
+# origami-games.github.io
+Origami Games Web Content

@@ -30,4 +30,4 @@ It is activated by sneaking, looking downwards and waiting 3 seconds. A boss bar
 | Numerical ID         | None                  | N/A         |
 
 #### Gallery
-![shield_1.png](https://origamistudio.github.io/assets/images/screenshots/spells/shield_1.png)
+![shield_1.png](https://origami-games.github.io/assets/images/screenshots/spells/shield_1.png)

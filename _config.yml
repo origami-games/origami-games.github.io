@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Origami Studios"
+title                    : "Origami Games"
 title_separator          : "-"
-name                     : "Origami Studios"
+name                     : "Origami Games"
 description              : "Innovative games, creatively"
-url                      : "https://origamistudio.github.io"
+url                      : "https://origami-games.github.io"
 baseurl                  : #"/artefact-blog/home"
-repository               : "origamistudio/origamistudio.github.io"
+repository               : "origami-games/origami-games.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo_image_header.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Origami Studios Team"
+  name             : "Origami Games Team"
   avatar           : "/assets/images/logo_image.png"
   bio              : ""
   location         : "International"
@@ -123,7 +123,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/origamistudio"
+      url: "https://github.com/origami-games"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/origamistudio"
+      url: "https://github.com/origami-games"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

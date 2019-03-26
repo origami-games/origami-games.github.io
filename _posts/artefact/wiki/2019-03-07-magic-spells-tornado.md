@@ -31,5 +31,5 @@ The tornado spell pushes nearby mobs away from you and up. This sometimes deals 
 | Numerical ID         | `2`               | N/A         |
 
 #### Gallery
-![tornado_1.png](https://origamistudio.github.io/assets/images/screenshots/spells/tornado_1.png)
-![tornado_2.png](https://origamistudio.github.io/assets/images/screenshots/spells/tornado_2.png)
+![tornado_1.png](https://origami-games.github.io/assets/images/screenshots/spells/tornado_1.png)
+![tornado_2.png](https://origami-games.github.io/assets/images/screenshots/spells/tornado_2.png)

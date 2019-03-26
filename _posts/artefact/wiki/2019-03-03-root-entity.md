@@ -14,6 +14,6 @@ sidebar:
 ---
 
 ### Contents
-- [Pixie](https://origamistudio.github.io/artefact/wiki/entity/pixie)
-- [Butterfly](https://origamistudio.github.io/artefact/wiki/entity/butterfly)
-- [Rat](https://origamistudio.github.io/artefact/wiki/entity/rat)
+- [Pixie](https://origami-games.github.io/artefact/wiki/entity/pixie)
+- [Butterfly](https://origami-games.github.io/artefact/wiki/entity/butterfly)
+- [Rat](https://origami-games.github.io/artefact/wiki/entity/rat)

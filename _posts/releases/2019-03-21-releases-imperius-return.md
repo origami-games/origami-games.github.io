@@ -18,19 +18,19 @@ sidebar:
 
 -----
 
-#### [Download current master branch](https://github.com/origamistudio/imperius-return/archive/master.zip) found at [origamistudio/imperius-return](https://github.com/origamistudio/imperius-return)  
-#### [How to Install](https://origamistudio.github.io/installation-guide#imperius-return)
+#### [Download current master branch](https://github.com/origami-games/imperius-return/archive/master.zip) found at [origami-games/imperius-return](https://github.com/origami-games/imperius-return)  
+#### [How to Install](https://origami-games.github.io/installation-guide#imperius-return)
 
 -----
 
 **Notice:** The Artefact development server is open 24/7! Join it at `artefact-development.serv.gs`
 {: .notice--info}
 
-### [Source v0.0.0.7-pre](https://github.com/origamistudio/imperius-return/archive/src-v0.0.0.7-pre.zip)
-##### [Download](https://github.com/origamistudio/imperius-return/archive/src-v0.0.0.7-pre.zip)
+### [Source v0.0.0.7-pre](https://github.com/origami-games/imperius-return/archive/src-v0.0.0.7-pre.zip)
+##### [Download](https://github.com/origami-games/imperius-return/archive/src-v0.0.0.7-pre.zip)
 #### Bug Fixes
-- [[#10]](https://github.com/origamistudio/imperius-return/issues/10) Goblin summon button in command menu references wrong function
-- [[#11]](https://github.com/origamistudio/imperius-return/issues/11) Shields don't have lore applied when health is normal (10 hearts)
+- [[#10]](https://github.com/origami-games/imperius-return/issues/10) Goblin summon button in command menu references wrong function
+- [[#11]](https://github.com/origami-games/imperius-return/issues/11) Shields don't have lore applied when health is normal (10 hearts)
 
 #### Gameplay Changes
 - Removed `CustomNameVisible` tags from entities (you now have to put your crosshair on an entity to see their name)
@@ -81,15 +81,15 @@ sidebar:
 - You no longer activate your shield while sneaking and flying in creative/spectator mode
 - Renamed `artefact-api:click_detection/[...]` to `artefact-api:action_detection/[...]`
 - Reorganised the right-click detection system and its files (everything now roots from one file - `artefact-core:player/holding_item/carrot_on_a_stick`)
-- Changed all `origamistudio/Imperius-Return` to `origamistudio/imperius-return`, for new link
+- Changed all `origami-games/Imperius-Return` to `origami-games/imperius-return`, for new link
 - Dead slimes no longer load incorrectly at Y=`-512`, lag the game and spam the logs
 - Added an NBT tag that identifies all shield types `artefact:{is_shield:1b}`
 - Added resistance for when your scores are being reset so you don't die
 
 -----
 
-### [Source v0.0.0.6-pre](https://github.com/origamistudio/imperius-return/tree/src-v0.0.0.6-pre)
-##### [Download](https://github.com/origamistudio/imperius-return/archive/src-v0.0.0.6-pre.zip)
+### [Source v0.0.0.6-pre](https://github.com/origami-games/imperius-return/tree/src-v0.0.0.6-pre)
+##### [Download](https://github.com/origami-games/imperius-return/archive/src-v0.0.0.6-pre.zip)
 #### Spell Changes
 - Added Inferno spell [`R`-`R`-`L` / `inferno`]
 - Added Submerge spell [`R`-`L`-`R` / `submerge`]
@@ -105,10 +105,10 @@ sidebar:
 #### Technical Changes
 - Added version number to resource pack description
 
-### [Source v0.0.0.5-pre](https://github.com/origamistudio/imperius-return/tree/src-v0.0.0.5-pre)
-##### [Download](https://github.com/origamistudio/imperius-return/archive/src-v0.0.0.5-pre.zip)
+### [Source v0.0.0.5-pre](https://github.com/origami-games/imperius-return/tree/src-v0.0.0.5-pre)
+##### [Download](https://github.com/origami-games/imperius-return/archive/src-v0.0.0.5-pre.zip)
 #### Bug Fixes
-- [[#9]](https://github.com/origamistudio/imperius-return/issues/9) Function `artefact-api:entities/spawn/radius/butterfly` does not exist
+- [[#9]](https://github.com/origami-games/imperius-return/issues/9) Function `artefact-api:entities/spawn/radius/butterfly` does not exist
 
 #### Spell Changes
 - Added Tornado spell [`R`-`L`-`L` / `tornado`]
@@ -136,10 +136,10 @@ sidebar:
 
 -----
 
-### [Source v0.0.0.4-pre](https://github.com/origamistudio/imperius-return/tree/src-v0.0.0.4-pre)
-##### [Download](https://github.com/origamistudio/imperius-return/archive/src-v0.0.0.4-pre.zip)
+### [Source v0.0.0.4-pre](https://github.com/origami-games/imperius-return/tree/src-v0.0.0.4-pre)
+##### [Download](https://github.com/origami-games/imperius-return/archive/src-v0.0.0.4-pre.zip)
 #### Bug Fixes
-- [[#8]](https://github.com/origamistudio/imperius-return/issues/8) Removing magic shield from offhand while still activating does not reset timer
+- [[#8]](https://github.com/origami-games/imperius-return/issues/8) Removing magic shield from offhand while still activating does not reset timer
 
 #### Gameplay Changes
 - Shield type now displays in the attribute status icon (offhand slot)
@@ -156,17 +156,17 @@ sidebar:
 
 -----
 
-### [Source v0.0.0.3-pre](https://github.com/origamistudio/imperius-return/tree/src-v0.0.0.3-pre)
-##### [Download](https://github.com/origamistudio/imperius-return/archive/src-v0.0.0.3-pre.zip)
+### [Source v0.0.0.3-pre](https://github.com/origami-games/imperius-return/tree/src-v0.0.0.3-pre)
+##### [Download](https://github.com/origami-games/imperius-return/archive/src-v0.0.0.3-pre.zip)
 #### Bug Fixes
-- [[#6]](https://github.com/origamistudio/imperius-return/issues/6) Build check still runs feedback tellraw if a player hasn't ran the command
-- [[#7]](https://github.com/origamistudio/imperius-return/issues/7) Discharge spell's slow falling effect is inconsistent
+- [[#6]](https://github.com/origami-games/imperius-return/issues/6) Build check still runs feedback tellraw if a player hasn't ran the command
+- [[#7]](https://github.com/origami-games/imperius-return/issues/7) Discharge spell's slow falling effect is inconsistent
 
 #### Gameplay Changes
 - Added magic shields' functionality `minecraft:shield{artefact:{item_type:["magic_shield"]}}`
   - While in offhand, look down, sneak and wait to activate
   - 5 second cooldown
-- Made lapis lazuli ore block animated [[#5]](https://github.com/origamistudio/imperius-return/issues/5)
+- Made lapis lazuli ore block animated [[#5]](https://github.com/origami-games/imperius-return/issues/5)
 
 #### Entity Changes
 - Added butterflies
@@ -187,11 +187,11 @@ sidebar:
 
 -----
 
-### [Source v0.0.0.2-pre](https://github.com/origamistudio/imperius-return/tree/src-v0.0.0.2-pre)
-##### [Download](https://github.com/origamistudio/imperius-return/archive/src-v0.0.0.2-pre.zip)
+### [Source v0.0.0.2-pre](https://github.com/origami-games/imperius-return/tree/src-v0.0.0.2-pre)
+##### [Download](https://github.com/origami-games/imperius-return/archive/src-v0.0.0.2-pre.zip)
 #### Bug Fixes
-- [[#1]](https://github.com/origamistudio/imperius-return/issues/1) Glass panes show missing texture icon
-- [[#4]](https://github.com/origamistudio/imperius-return/issues/4) Mana gets set to `0` on death even in creative mode
+- [[#1]](https://github.com/origami-games/imperius-return/issues/1) Glass panes show missing texture icon
+- [[#4]](https://github.com/origami-games/imperius-return/issues/4) Mana gets set to `0` on death even in creative mode
 
 #### Gameplay Changes
 - Added a tutorial-like feature
@@ -208,8 +208,8 @@ sidebar:
 
 -----
 
-### [Source v0.0.0.1-pre](https://github.com/origamistudio/imperius-return/tree/src-v0.0.0.1-pre)
-##### [Download](https://github.com/origamistudio/imperius-return/archive/src-v0.0.0.1-pre.zip)
+### [Source v0.0.0.1-pre](https://github.com/origami-games/imperius-return/tree/src-v0.0.0.1-pre)
+##### [Download](https://github.com/origami-games/imperius-return/archive/src-v0.0.0.1-pre.zip)
 Here's a run-down of everything added so far:
 #### Mechanics
 Some vanilla mechanics have been altered for a full RPG experience!

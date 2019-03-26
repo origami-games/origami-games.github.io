@@ -15,5 +15,5 @@ sidebar:
 ---
 
 ### Contents
-- [Imperius' Return](https://origamistudio.github.io/releases/imperius-return)
-- [The Convolution](https://origamistudio.github.io/releases/the-convolution)
+- [Imperius' Return](https://origami-games.github.io/releases/imperius-return)
+- [The Convolution](https://origami-games.github.io/releases/the-convolution)
