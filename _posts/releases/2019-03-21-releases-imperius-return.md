@@ -26,6 +26,36 @@ sidebar:
 **Notice:** The Artefact development server is open 24/7! Join it at `artefact-development.serv.gs`
 {: .notice--info}
 
+
+### [Source v0.0.0.8-pre](https://github.com/origami-games/imperius-return/tree/src-v0.0.0.8-pre)
+##### [Download](https://github.com/origami-games/imperius-return/archive/src-v0.0.0.8-pre.zip)
+#### Gameplay Changes
+- Added lower shields
+- Removed French support as it is hard to keep it up with frequent feature additions
+
+#### Ability Changes
+- Cooldowns are now per-ability
+  - Coloured the boss bar display per-tier
+  - Boss bar display to be changed as a result
+- Added `Shield Bash`
+  - The player can flick their camera quickly upwards to smack whatever entities are around them. This doesn’t deal much damage, but a tonne of knockback. Can only be activated if the player has a shield (any type) in their offhand.
+- Added audiovisuals to Energy Sucker Punch
+  - 'Charge-up' sound (plays when timer starts)
+  - Activation particles
+
+#### Entity Changes
+- Reduced goblin health to `6` points (`3` hearts)
+- Capped max xp orb entity count to `50`
+
+#### Technical Changes
+- Renamed all artefact root folders
+  - In resource pack - `/artefact/` to `/origami-games/artefact/`
+  - In data pack - `artefact-<category>:` to `origami-games:artefact/<category>/`
+- Re-written stuns system [`#12`](https://github.com/origami-games/imperius-return/issues/12)
+  - Now modular [(see issue)](https://github.com/origami-games/imperius-return/issues/12)
+
+-----
+
 ### [Source v0.0.0.7-pre](https://github.com/origami-games/imperius-return/tree/src-v0.0.0.7-pre)
 ##### [Download](https://github.com/origami-games/imperius-return/archive/src-v0.0.0.7-pre.zip)
 #### Bug Fixes
