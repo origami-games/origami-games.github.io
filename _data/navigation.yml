@@ -2,6 +2,8 @@
 main:
   - title: "Releases"
     url: /releases/
+  - title: "The Team"
+    url: /team
 
 #wiki sidebar
 wiki:
