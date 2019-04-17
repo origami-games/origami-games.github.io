@@ -21,12 +21,12 @@ sidebar:
 #### [Download current master branch](https://github.com/origami-games/imperius-return/archive/master.zip) found at [origami-games/imperius-return](https://github.com/origami-games/imperius-return)  
 #### [How to Install](https://origami-games.github.io/installation-guide#imperius-return)
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.481%;"><iframe src="https://streamable.com/s/g45ao/ulwege?autoplay=1&muted=1" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
 -----
 
 **Notice:** The Artefact development server is open 24/7! Join it at `artefact-development.serv.gs`
 {: .notice--info}
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.481%;"><iframe src="https://streamable.com/s/g45ao/djnpdn" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 
 ### [Source v0.0.0.8-pre](https://github.com/origami-games/imperius-return/tree/src-v0.0.0.8-pre)
