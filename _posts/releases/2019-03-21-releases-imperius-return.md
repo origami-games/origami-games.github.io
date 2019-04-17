@@ -24,9 +24,8 @@ sidebar:
 -----
 
 **Notice:** The Artefact development server is open 24/7! Join it at `artefact-development.serv.gs`
+<iframe src="https://streamable.com/s/g45ao/jbbmrm" width="850" height="480" frameborder="0" allowfullscreen></iframe>
 {: .notice--info}
-
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.481%;"><iframe src="https://streamable.com/s/g45ao/djnpdn" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 
 ### [Source v0.0.0.8-pre](https://github.com/origami-games/imperius-return/tree/src-v0.0.0.8-pre)
