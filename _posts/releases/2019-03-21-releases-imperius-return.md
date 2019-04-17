@@ -24,6 +24,7 @@ sidebar:
 -----
 
 **Notice:** The Artefact development server is open 24/7! Join it at `artefact-development.serv.gs`
+{: .notice--info}
 <iframe src="https://streamable.com/s/g45ao/jbbmrm" width="850" height="480" frameborder="0" allowfullscreen></iframe>
 {: .notice--info}
 
