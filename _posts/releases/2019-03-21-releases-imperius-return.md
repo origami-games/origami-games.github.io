@@ -25,9 +25,76 @@ sidebar:
 
 **Notice:** The Artefact development server is open 24/7! Join it at `artefact-development.serv.gs`
 {: .notice--info}
-<iframe src="https://streamable.com/s/g45ao/jbbmrm" width="850" height="480" frameborder="0" allowfullscreen></iframe>
-{: .notice--info}
 
+### [Source v0.0.0.9-pre](https://github.com/origami-games/imperius-return/tree/src-v0.0.0.9-pre)
+##### [Download](https://github.com/origami-games/imperius-return/archive/src-v0.0.0.9-pre.zip)
+#### Bug Fixes
+- [[#17]](https://github.com/origami-games/imperius-return/issues/17) Zombies are called goblins
+- [[#18]](https://github.com/origami-games/imperius-return/issues/18) Treasure bags are missing a language string
+- [[#19]](https://github.com/origami-games/imperius-return/issues/19) Bows are unusable because of missing `#minecraft:arrows` tag
+
+#### Magic Changes
+- Added wands
+  - Brandr (`/function origami-games:artefact/api/items/give/wand/brandr`)
+    - Discharge
+    - Blitz
+    - Tornado
+  - Scorch (`/function origami-games:artefact/api/items/give/wand/scorch`)
+    - Inferno
+    - Blitz
+- Added custom potions
+  - Mana Potion (`/function origami-games:artefact/api/items/give/potion/instant_mana`)
+    - +6 instant mana
+  - Energy Potion (`/function origami-games:artefact/api/items/give/potion/instant_energy`)
+    - +20 instant energy
+  - Potion of Pushing (`/function origami-games:artefact/api/items/give/potion/pushing`)
+    - Pushing effect for 10 seconds - pushes all mobs in a radius of 4 blocks away from you
+  - Potion of Flammability (`/function origami-games:artefact/api/items/give/potion/flammability`)
+    - Summons a trail of flames behind you, setting mobs who walk in them on fire. This lasts 10 seconds.
+
+#### Ability Changes
+- Added `Snake Step`
+  - You will turn invisible for 4 seconds and teleport up to 15 blocks in the direction you’re looking - until you hit a block. All enemies passed through during this time will be stunned and receive glowing. This ability cannot be used while you have invisibility.
+- Added `Pin`
+  - The next time you move you get a short burst of extreme speed, and all mobs that are in front of you during the 'dash' get pushed towards wherever you are going, and get stunned. This does some damage to these mobs.
+- Added energy usage to the lore of ability slots
+- Updated Indomitable Stomp texture
+
+#### Item Changes
+- Added `Throwing Knife` (`/function origami-games:artefact/api/items/give/throwing_knife`)
+  - Right-click to throw
+  - Will stick in mobs it hits for 5 seconds
+  - Fast, but weak melee damage - +4 attack damage (2 hearts)
+- Added `Hammer` (`/function origami-games:artefact/api/items/give/hammer`)
+  - Slow, but strong melee damage - +9 attack damage (4.5 hearts)
+- Added `Longsword` (`/function origami-games:artefact/api/items/give/longsword`)
+  - Moderate attributes - +6 attack damage (3 hearts)
+
+#### Texture Changes
+- Updated textures
+  - Lapis Block
+  - Sand
+  - Gravel
+- Added textures
+  - All planks
+  - Clay
+  - Glowstone
+  - Sponge
+  - Wet Sponge
+- Reverted grass path's texture
+- Updated mob effect textures for newer snapshots
+- Removed unused textures from `/assets/minecraft/textures`
+- Removed default shield placeholder texture from inventory offhand slot
+
+#### Technical Changes
+- Moved pixie model reference to `/minecraft/models/item/stick.json` [[#14]](https://github.com/origami-games/imperius-return/issues/14)
+- Renamed `/artefact/ability_slot/template.json` to `base.json` and added new `_template.json` as a template for new abilities
+- Updated `origami-games:artefact/type/passthrough`
+- Reworked the stuns system again
+- Removed NPCs (to be added back and reworked later)
+- Stopped the left click slime from being able to be on fire
+
+-----
 
 ### [Source v0.0.0.8-pre](https://github.com/origami-games/imperius-return/tree/src-v0.0.0.8-pre)
 ##### [Download](https://github.com/origami-games/imperius-return/archive/src-v0.0.0.8-pre.zip)
