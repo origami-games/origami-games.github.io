@@ -16,4 +16,4 @@ sidebar:
 
 ### Contents
 - [Imperius' Return](https://origami-games.github.io/releases/imperius-return)
-- [The Convolution](https://origami-games.github.io/releases/the-convolution)
+- [The Osmium Project](https://origami-games.github.io/releases/the-osmium-project)

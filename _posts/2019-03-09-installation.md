@@ -22,17 +22,16 @@ sidebar:
 ### World Installation
 - Unzip `Artefact - IR (World).zip`
 - Move the extracted folder to your [world saves folder](https://www.youtube.com/watch?v=wTAAbeWiC6M)
-- Move `Artefact - IR (Resources)` to your [resource packs folder](https://youtu.be/8rFK_HmzEdk?t=152)
-- Enable the resource pack and join the world to start playing!
+- Join the world to start playing!
 
 ### Source Installation
 - Create, preferably, a **void world**
-- Move `Artefact- IR (Data)` into the `datapacks` folder in that [world's saves folder](https://www.youtube.com/watch?v=wTAAbeWiC6M)
+- Move `Artefact - IR (Data)` into the `datapacks` folder in your [world's saves folder](https://www.youtube.com/watch?v=wTAAbeWiC6M)
 - Move `Artefact - IR (Resources)` to your [resource packs folder](https://youtu.be/8rFK_HmzEdk?t=152)
 - Enable the resource pack and join the world to start playing!
 
-## **The Convolution**
+## **The Osmium Project**
 ### World Installation
-- Unzip `Artefact - The Convolution.zip`
+- Unzip `The Osmium Project.zip`
 - Move the extracted folder to your [world saves folder](https://www.youtube.com/watch?v=wTAAbeWiC6M)
 - Join the world to play!

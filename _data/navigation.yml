@@ -12,14 +12,14 @@ wiki:
     children:
       - title: "Imperius' Return"
         url: /releases/imperius-return
-      - title: "The Convolution"
-        url: /releases/the-convolution
+      - title: "The Osmium Project"
+        url: /releases/the-osmium-project
   - title: "Getting Started"
     children:
       - title: "What is Imperius' Return?"
         url: /what-is-imperius-return
-      - title: "What is The Convolution?"
-        url: /what-is-the-convolution
+      - title: "What is The Osmium Project?"
+        url: /what-is-the-osmium-project
       - title: "Installation"
         url: /installation-guide
 wiki-artefact:
