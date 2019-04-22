@@ -1,6 +1,6 @@
 ---
 title: "What is The Osmium Project?"
-excerpt: "You are trapped. Find your way out."
+excerpt: ""
 permalink: /what-is-the-osmium-project
 categories:
   - Information
@@ -17,5 +17,3 @@ sidebar:
 #### [Download current master branch](https://github.com/origami-games/the-osmium-project/archive/master.zip) found at [origami-games/the-osmium-project](https://github.com/origami-games/the-osmium-project)  
 
 -----
-
-You are trapped. Find your way out.
