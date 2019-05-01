@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "What is The Osmium Project?"
 excerpt: ""
 permalink: /what-is-the-osmium-project

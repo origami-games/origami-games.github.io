@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "Sitemap"
 excerpt: "All posts and wiki pages"
 permalink: /sitemap/

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "Releases"
 excerpt: "Download versions of the maps and source code"
 permalink: /releases/

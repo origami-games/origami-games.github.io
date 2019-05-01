@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "The Team"
 excerpt: "Meet the developers"
 permalink: /team
