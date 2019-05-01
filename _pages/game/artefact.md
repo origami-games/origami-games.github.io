@@ -14,8 +14,6 @@ header:
 excerpt: An RPG created in vanilla Minecraft, for singleplayer
 intro:
   - excerpt: "'Artefact - Imperius' Return', is an RPG created in vanilla Minecraft, for singleplayer. It takes place in a vibrant fantasy world with both sandbox and story gameplay. The map is not realistic or gritty, it’s fun for the sake of fun. The combat will make you feel like a badass and the story is full of interest not typically found in large-scale fantasy."
-redirect_from:
-  - /what-is-imperius-return
 ---
 
 ### How can I play Imperius' Return?
