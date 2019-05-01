@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "The Osmium Project"
 excerpt: "Download versions of The Osmium Project and source code"
 permalink: /releases/the-osmium-project

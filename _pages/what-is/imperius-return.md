@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "What is Imperius' Return?"
 excerpt: "Imperius' Return is an RPG created in vanilla Minecraft, for singleplayer"
 permalink: /what-is-imperius-return

@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Credits"
 excerpt: "Open-source code credit and other help"
 permalink: /credits

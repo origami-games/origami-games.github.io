@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: "The Team"
 excerpt: "Meet the developers"
 permalink: /team
@@ -7,7 +7,6 @@ categories:
   - Information
 author_profile: false
 classes: wide
-
 ---
 
 -----

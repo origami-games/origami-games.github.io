@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Artefact - Imperius' Return"
 excerpt: "Download versions of Imperius' Return and source code"
 permalink: /releases/imperius-return

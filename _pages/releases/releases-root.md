@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Releases"
 excerpt: "Download versions of the maps and source code"
 permalink: /releases/

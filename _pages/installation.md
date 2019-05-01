@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Installation Guide"
 excerpt: "How to quickly install and setup Artefact"
 permalink: /installation-guide

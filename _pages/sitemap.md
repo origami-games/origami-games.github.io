@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Sitemap"
 excerpt: "All posts and wiki pages"
 permalink: /sitemap/
