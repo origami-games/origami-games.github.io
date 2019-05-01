@@ -1,6 +1,7 @@
 ---
 layout: splash
 permalink: /artefact
+title: "Artefact"
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5"
