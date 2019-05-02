@@ -33,6 +33,6 @@ sidebar:
 
 ## **The Osmium Project**
 ### World Installation
-- Unzip `The Osmium Project.zip`
+- Unzip `The Osmium Project (World).zip`
 - Move the extracted folder to your [world saves folder](https://www.youtube.com/watch?v=wTAAbeWiC6M)
 - Join the world to play!
