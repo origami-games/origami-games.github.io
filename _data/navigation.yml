@@ -10,14 +10,14 @@ wiki:
   - title: "Releases"
     url: /releases/
     children:
-      - title: "Imperius' Return"
-        url: /releases/imperius-return
+      - title: "Artefact"
+        url: /releases/artefact
       - title: "The Osmium Project"
         url: /releases/the-osmium-project
   - title: "Getting Started"
     children:
-      - title: "What is Imperius' Return?"
-        url: /what-is-imperius-return
+      - title: "What is Artefact?"
+        url: /what-is-artefact
       - title: "What is The Osmium Project?"
         url: /what-is-the-osmium-project
       - title: "Installation"
@@ -27,11 +27,11 @@ wiki-artefact:
     url: /artefact/wiki/
     children:
       - title: "Releases"
-        url: /releases/imperius-return
+        url: /releases/artefact
       - title: "Installation"
         url: /installation-guide
-      - title: "What is Imperius' Return?"
-        url: /what-is-imperius-return
+      - title: "What is Artefact?"
+        url: /what-is-artefact
   - title: "Entities"
     url: /artefact/wiki/entity/
     children:

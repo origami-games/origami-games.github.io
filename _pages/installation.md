@@ -19,7 +19,7 @@ sidebar:
 **Important:** These maps use Minecraft 1.14 or higher. You must play in the latest release.
 {: .notice--warning}
 
-## **Imperius' Return**
+## **Artefact**
 ### World Installation
 - Unzip `Artefact - IR (World).zip`
 - Move the extracted folder to your [world saves folder](https://www.youtube.com/watch?v=wTAAbeWiC6M)

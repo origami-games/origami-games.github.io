@@ -16,5 +16,5 @@ sidebar:
 ---
 
 ### Contents
-- [Imperius' Return](https://origami-games.github.io/releases/imperius-return)
+- [Artefact](https://origami-games.github.io/releases/artefact)
 - [The Osmium Project](https://origami-games.github.io/releases/the-osmium-project)
