@@ -13,8 +13,8 @@ author_profile: false
 
 ## Artefact
 [![artefact-banner.png](https://origami-games.github.io/assets/images/artefact-banner.png)](https://origami-games.github.io/releases/artefact)
-### [Splash](https://origami-games.github.io/artefact)
-### [Releases](https://origami-games.github.io/releases/artefact)
+[**Splash**](https://origami-games.github.io/artefact)  
+[**Releases**](https://origami-games.github.io/changelogs/artefact)
 
 ## The Osmium Project
 *Coming soon*
