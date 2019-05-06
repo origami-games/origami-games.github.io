@@ -2,14 +2,13 @@
 layout: archive
 title: "The Osmium Project"
 excerpt: "Download versions of The Osmium Project and source code"
-permalink: /releases/the-osmium-project
+permalink: /changelogs/the-osmium-project
 categories:
   - Information
   - Documentation
   - News
   - Wiki
-  - Wiki/Releases
-  - Releases
+  - Changelogs
 author_profile: false
 classes: wide
 sidebar:
