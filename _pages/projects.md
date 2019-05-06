@@ -9,12 +9,18 @@ categories:
   - News
   - Wiki
 author_profile: false
+
+artefact:
+  - image_path: /assets/images/artefact-banner.png
+    alt: "artefact-banner.png"
+    title: "Artefact"
+    excerpt: 'An RPG created in vanilla Minecraft'
+    url: "https://origami-games.github.io/artefact"
+    btn_label: "Read more..."
+    btn_class: "btn--primary"
 ---
 
-## Artefact
-[![artefact-banner.png](https://origami-games.github.io/assets/images/artefact-banner.png)](https://origami-games.github.io/releases/artefact)
-[**Splash**](https://origami-games.github.io/artefact)  
-[**Releases**](https://origami-games.github.io/changelogs/artefact)
+{% include feature_row id="artefact" type="left" %}
 
-## The Osmium Project
-*Coming soon*
+## Coming Soon
+- The Osmium Project
