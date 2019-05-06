@@ -11,7 +11,7 @@ categories:
 author_profile: false
 
 artefact:
-  - image_path: /assets/images/artefact-banner.png
+  - image_path: /assets/images/artefact-banner-feature-row.png
     alt: "artefact-banner.png"
     title: "Artefact"
     excerpt: 'An RPG created in vanilla Minecraft'
