@@ -1,15 +1,15 @@
 ---
 layout: archive
 title: "Artefact"
-excerpt: "Download versions of Artefact and source code"
-permalink: /releases/artefact
+excerpt: "View Artefact's changelog"
+permalink: /changelogs/artefact
 categories:
   - Information
   - Documentation
   - News
   - Wiki
-  - Wiki/Releases
-  - Releases
+  - Wiki/Changelogs
+  - Changelogs
 author_profile: false
 classes: wide
 sidebar:
