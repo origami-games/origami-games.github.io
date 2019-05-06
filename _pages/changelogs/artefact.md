@@ -8,7 +8,6 @@ categories:
   - Documentation
   - News
   - Wiki
-  - Wiki/Changelogs
   - Changelogs
 author_profile: false
 classes: wide
