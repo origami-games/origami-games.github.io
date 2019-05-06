@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Releases"
-excerpt: "Download versions of the maps and source code"
-permalink: /releases/
+title: "Projects"
+excerpt: "See our projects"
+permalink: /projects/
 categories:
   - Information
   - Documentation
@@ -10,11 +10,12 @@ categories:
   - Wiki
 author_profile: false
 classes: wide
-sidebar:
-  title: "Wiki"
-  nav: wiki
 ---
 
-### Contents
-- [Artefact](https://origami-games.github.io/releases/artefact)
-- [The Osmium Project](https://origami-games.github.io/releases/the-osmium-project)
+## Artefact
+[![artefact-banner.png](https://origami-games.github.io/assets/images/artefact-banner.png)](https://origami-games.github.io/releases/artefact)
+### [Splash](https://origami-games.github.io/artefact)
+### [Releases](https://origami-games.github.io/releases/artefact)
+
+## The Osmium Project
+*Coming soon*
