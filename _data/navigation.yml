@@ -1,33 +1,33 @@
 # main links
 main:
-  - title: "Releases"
-    url: /releases/
+  - title: "Changelogs"
+    url: /changelogs/
   - title: "The Team"
     url: /team
 
 #wiki sidebar
 wiki:
-  - title: "Releases"
-    url: /releases/
+  - title: "Changelogs"
+    url: /changelogs/
     children:
       - title: "Artefact"
-        url: /releases/artefact
+        url: /changelogs/artefact
       - title: "The Osmium Project"
-        url: /releases/the-osmium-project
+        url: /changelogs/the-osmium-project
   - title: "Getting Started"
     children:
       - title: "What is Artefact?"
-        url: /what-is-artefact
+        url: /artefact
       - title: "What is The Osmium Project?"
-        url: /what-is-the-osmium-project
+        url: /the-osmium-project
       - title: "Installation"
         url: /installation-guide
 wiki-artefact:
   - title: "Artefact"
     url: /artefact/wiki/
     children:
-      - title: "Releases"
-        url: /releases/artefact
+      - title: "Changelogs"
+        url: /changelogs/artefact
       - title: "Installation"
         url: /installation-guide
       - title: "What is Artefact?"
