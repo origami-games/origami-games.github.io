@@ -30,6 +30,20 @@ author-razorsharp:
       url: "https://github.com/acneindustries"
 ---
 
-{% include author-profile.html id="author-andante" %}
+### **Andante**
+*Founder and coder*
 
-{% include author_profile.html id="author-razorsharp" %}
+![andante.png](https://origami-games.github.io/assets/images/profile_pictures/andante.png)
+
+-----
+
+### **razorsharp**
+*Founder, graphic designer and writer*
+
+![razorsharp.png](https://origami-games.github.io/assets/images/profile_pictures/razorsharp.png)
+
+-----
+
+#{% include author-profile.html id="author-andante" %}
+
+#{% include author_profile.html id="author-razorsharp" %}
