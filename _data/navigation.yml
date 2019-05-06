@@ -1,14 +1,14 @@
 # main links
 main:
-  - title: "Changelogs"
-    url: /changelogs/
+  - title: "Projects"
+    url: /projects/
   - title: "The Team"
     url: /team
 
 #wiki sidebar
 wiki:
-  - title: "Changelogs"
-    url: /changelogs/
+  - title: "Projects"
+    url: /projects/
     children:
       - title: "Artefact"
         url: /changelogs/artefact
