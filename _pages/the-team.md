@@ -30,6 +30,6 @@ author-razorsharp:
       url: "https://github.com/acneindustries"
 ---
 
-{% include author-profile.html id="author-andante" type="left" %}
+{% include author-profile.html id="author-andante" %}
 
-{% include author_profile.html id="author-andante" type="right" %}
+{% include author_profile.html id="author-razorsharp" %}
