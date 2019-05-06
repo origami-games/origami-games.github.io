@@ -23,7 +23,7 @@ sidebar:
 
 -----
 
-**Notice:** The Artefact development server is open 24/7! Join it at `artefact-development.serv.gs`
+**Notice:** The Origami Games development server is open 24/7! Join it at `origami-games.serv.gs`
 {: .notice--info}
 
 ### [Source v0.0.0.9-pre](https://github.com/origami-games/artefact/tree/src-v0.0.0.9-pre)
