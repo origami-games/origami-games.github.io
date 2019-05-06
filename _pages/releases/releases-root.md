@@ -9,7 +9,6 @@ categories:
   - News
   - Wiki
 author_profile: false
-classes: wide
 ---
 
 ## Artefact
