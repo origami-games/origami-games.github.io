@@ -2,7 +2,7 @@
 layout: archive
 title: "Projects"
 excerpt: "See our projects"
-permalink: /projects
+permalink: /projects/
 categories:
   - Information
   - Documentation
