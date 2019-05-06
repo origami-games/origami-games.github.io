@@ -43,7 +43,3 @@ author-razorsharp:
 ![razorsharp.png](https://origami-games.github.io/assets/images/profile_pictures/razorsharp.png)
 
 -----
-
-#{% include author-profile.html id="author-andante" %}
-
-#{% include author_profile.html id="author-razorsharp" %}
