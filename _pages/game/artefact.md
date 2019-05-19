@@ -9,7 +9,7 @@ header:
   caption: "Photo credit: [**razorsharp**](https://origami-games.github.io/team#razorsharp)"
   actions:
     - label: "<i class='fas fa-download'></i> Releases"
-      url: "https://origami-games.github.io/releases/artefact"
+      url: "https://origami-games.github.io/changelogs/artefact"
 #    - label: "Discord"
 #      url: "https://discord.gg/k7gRYYY"
 excerpt: An RPG created in vanilla Minecraft, for singleplayer
