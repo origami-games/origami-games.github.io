@@ -12,14 +12,10 @@ wiki:
     children:
       - title: "Artefact"
         url: /changelogs/artefact
-      - title: "The Osmium Project"
-        url: /changelogs/the-osmium-project
   - title: "Getting Started"
     children:
       - title: "What is Artefact?"
         url: /artefact
-      - title: "What is The Osmium Project?"
-        url: /the-osmium-project
       - title: "Installation"
         url: /installation-guide
 wiki-artefact:
