@@ -13,9 +13,10 @@ header:
 #    - label: "Discord"
 #      url: "https://discord.gg/k7gRYYY"
 excerpt: An RPG created in vanilla Minecraft
-intro:
-  - excerpt: "'Artefact', is an RPG created in vanilla Minecraft. It takes place in a vibrant fantasy world with both sandbox and story gameplay. The map is not realistic or gritty, it’s fun for the sake of fun. The combat will make you feel like a badass and the story is full of interest not typically found in large-scale fantasy."
 ---
+
+### What is Artefact?
+'Artefact' is an RPG created in vanilla Minecraft, for singleplayer. It takes place in a vibrant fantasy world focused on story and combat. The gameplay is not realistic or gritty, it’s fun for the sake of fun. The combat will make you feel like a badass and the story is full of un-seriousness not typically found in large-scale fantasy.
 
 ### How can I play Artefact?
 Artefact is still in quite early development. We are trying so hard to get it complete as soon as possible, but it still means that you'll have to wait a while for release. The map will come out in a kind of 'beta release' phase, for you to [test and find bugs](https://github.com/origami-games/artefact/issues). As soon as it is polished like a good block of andesite, the map will be fully released.
