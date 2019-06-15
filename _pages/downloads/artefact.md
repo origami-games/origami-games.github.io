@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Artefact Downloads"
-excerpt: "View Artefact's changelog"
-permalink: /changelogs/artefact
+excerpt: "Download Artefact"
+permalink: /downloads/artefact
 categories:
   - Information
   - Documentation
