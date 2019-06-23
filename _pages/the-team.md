@@ -28,6 +28,15 @@ author-razorsharp:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/acneindustries"
+author-texture_bacon:
+  name     : "Texture Bacon"
+  avatar   : "/assets/images/profile_pictures/texture_bacon.png"
+  bio      : "Builder"
+  location : "America"
+#  links:
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/acneindustries"
 ---
 
 ### **Andante**
@@ -41,5 +50,12 @@ author-razorsharp:
 *Founder, graphic designer and writer*
 
 ![razorsharp.png](https://origami-games.github.io/assets/images/profile_pictures/razorsharp.png)
+
+-----
+
+### **Texture Bacon**
+*Builder*
+
+![texture_bacon.png](https://origami-games.github.io/assets/images/profile_pictures/texture_bacon.png)
 
 -----
