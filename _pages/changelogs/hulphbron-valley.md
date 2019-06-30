@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "hulphbron-valley"
+title: "Hulphbron Valley"
 excerpt: "View Hulphbron Valley's changelog"
 permalink: /changelogs/hulphbron-valley
 categories:
