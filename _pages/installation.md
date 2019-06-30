@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Installation Guide"
-excerpt: "How to quickly install and setup Artefact"
+excerpt: "How to quickly install and set-up our games"
 permalink: /installation-guide
 categories:
   - Information

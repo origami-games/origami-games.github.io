@@ -12,10 +12,14 @@ wiki:
     children:
       - title: "Artefact"
         url: /changelogs/artefact
+      - title: "Hulphbron Valley"
+        url: /changelogs/hulphbron-valley
   - title: "Getting Started"
     children:
       - title: "What is Artefact?"
         url: /artefact
+      - title: "What is Hulphbron Valley?"
+        url: /hulphbron-valley
       - title: "Installation"
         url: /installation-guide
 wiki-artefact:
