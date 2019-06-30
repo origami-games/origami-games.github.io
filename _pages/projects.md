@@ -18,9 +18,18 @@ artefact:
     url: "https://origami-games.github.io/artefact"
     btn_label: "Read more..."
     btn_class: "btn--primary"
+hulphbron-valley:
+  - image_path: /assets/images/hulphbron-valley/banner-feature-row.png
+    alt: "hulphbron-valley/banner-feature-row.png"
+    title: "Hulphbron Valley"
+    excerpt: 'A survival and resource collecting game inspired by Forager'
+    url: "https://origami-games.github.io/hulphbron-valley"
+    btn_label: "Read more..."
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="artefact" type="left" %}
+{% include feature_row id="hulphbron-valley" type="left" %}
 
 ## Coming Soon
-- The Osmium Project
+- Split

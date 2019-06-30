@@ -16,7 +16,7 @@ sidebar:
   nav: wiki
 ---
 
-**Important:** These maps use Minecraft 1.14 or higher. You must play in the latest release.
+**Important:** These maps use Minecraft 1.14.3 or higher. You must play in the latest release. If you want a custom loading screen for resource-pack based maps, use [OptiFine](https://optifine.net/downloads).
 {: .notice--warning}
 
 ## **Artefact**
@@ -31,8 +31,8 @@ sidebar:
 - Move `Artefact (Resources)` to your [resource packs folder](https://youtu.be/8rFK_HmzEdk?t=152)
 - Enable the resource pack and join the world to start playing!
 
-## **The Osmium Project**
+## **Hulphbron Valley**
 ### World Installation
-- Unzip `The Osmium Project (World).zip`
+- Unzip `Hulphbron Valley (World).zip`
 - Move the extracted folder to your [world saves folder](https://www.youtube.com/watch?v=wTAAbeWiC6M)
-- Join the world to play!
+- Join the world to start playing!
