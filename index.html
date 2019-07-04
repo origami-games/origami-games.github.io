@@ -5,12 +5,29 @@ header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5"
   overlay_image: /assets/images/origami-banner.png
-#  actions:
-#    - label: "Projects"
-#      url: "https://origami-games.github.io/projects/"
+  actions:
+    - label: "Projects"
+      url: "https://origami-games.github.io/projects/"
 excerpt: 
 intro:
   - excerpt: "Our first map, Artefact, is an RPG created in vanilla Minecraft. It takes place in a vibrant fantasy world with both sandbox and story gameplay. The map is not realistic or gritty, it’s fun for the sake of fun. The combat will make you feel like a badass and the story is full of interest not typically found in large-scale fantasy."
+  
+discord:
+  - image_path: /assets/images/discord.png
+    alt: "discord.png"
+    title: "Community-Created"
+    excerpt: 'Our maps are filled with community suggestions and feedback'
+    url: "https://discord.gg/k7gRYYY"
+    btn_label: "Join the Conversation"
+    btn_class: "btn--primary"
+performant_code:
+  - image_path: /assets/images/code.png
+    alt: "code.png"
+    title: "Lightweight"
+    excerpt: 'The code of each map is built with performance in mind'
+    url: "https://github.com/origami-games"
+    btn_label: "View"
+    btn_class: "btn--primary"
 
 artefact:
   - image_path: /assets/images/artefact-banner-feature-row.png
@@ -30,6 +47,5 @@ hulphbron-valley:
     btn_class: "btn--primary"
 ---
 
-## Projects
-{% include feature_row id="artefact" type="left" %}
-{% include feature_row id="hulphbron-valley" type="left" %}
+{% include feature_row id="discord" type="left" %}
+{% include feature_row id="performant_code" type="right" %}
