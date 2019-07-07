@@ -9,8 +9,8 @@ header:
   actions:
     - label: "<i class='fas fa-download'></i> Releases"
       url: "https://origami-games.github.io/changelogs/hulphbron-valley"
-excerpt: A survival and resource collecting game inspired by Forager
+excerpt: A 2D survival and resource management game made in Minecraft
 ---
 
 ### What is Hulphbron Valley?
-Hulphbron Valley is a survival and resource collecting game inspired by Forager. It takes place in a mostly peaceful, unharmed world, but holds dangerous, demonic powers.
+Hulphbron Valley is a 2D survival and resource management game made in Minecraft. It takes place a seemingly friendly, fertile world, but hides darker things within.
