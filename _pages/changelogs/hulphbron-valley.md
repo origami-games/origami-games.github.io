@@ -24,7 +24,7 @@ sidebar:
 -----
 
 ### [HV v0.0.1](https://github.com/origami-games/hulphbron-valley/tree/v0.0.1)
-##### [Download](https://github.com/origami-games/hulphbron-valley/archive/v0.0.1.zip)
+##### [Download](https://github.com/origami-games/hulphbron-valley/releases/tag/v0.0.1)
 #### Added
 - Character
   - Has 100 HP
