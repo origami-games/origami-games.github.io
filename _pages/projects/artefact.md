@@ -22,4 +22,4 @@ excerpt: An RPG created in vanilla Minecraft
 Artefact is still in quite early development. We are trying so hard to get it complete as soon as possible, but it still means that you'll have to wait a while for release. The map will come out in a closed beta phase, for you to [test and find bugs](https://github.com/origami-games/artefact/issues). As soon as it is polished like a good block of andesite, the map will be fully released.
 
 ### How can we help?
-The easiest way to give help and feedback would be to [send us a message on our Discord](https://discord.gg/k7gRYYY) or [open an issue through GitHub](https://github.com/origami-games/artefact/issues/new/choose). Expect a response in up to a day!
+The easiest way to give help and feedback would be to [send us a message on our Discord](https://discord.io/artefact) or [open an issue through GitHub](https://github.com/origami-games/artefact/issues/new/choose). Expect a response in up to a day!
