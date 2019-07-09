@@ -11,7 +11,7 @@ header:
     - label: "<i class='fas fa-download'></i> Releases"
       url: "https://origami-games.github.io/changelogs/artefact"
 #    - label: "Discord"
-#      url: "https://discord.gg/k7gRYYY"
+#      url: "https://discord.io/origami"
 excerpt: An RPG created in vanilla Minecraft
 ---
 
