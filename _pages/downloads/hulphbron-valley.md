@@ -18,7 +18,7 @@ sidebar:
 
 -----
 
-### [Download the Latest Release](https://github.com/origami-games/hulphbron-valley/archive/master.zip) 
+### [Download the Latest Release](https://origami-games.github.io/changelogs/hulphbron-valley)
 ### [Version History](https://github.com/origami-games/hulphbron-valley/releases)
 ### [How to Install](https://origami-games.github.io/installation-guide#hulphbron-valley)
 
