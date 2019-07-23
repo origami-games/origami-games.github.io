@@ -23,6 +23,9 @@ Runs every time the pack loads.
 #### `#cardboard:hook/action_detection/right_click`
 Runs on players who have right-clicked with a carrot on a stick.
 
+#### `#cardboard:hook/action_detection/damage_dealt`
+Runs on players who have damaged an entity.
+
 #### `#cardboard:hook/death`
 Runs on players who have died.
 
