@@ -12,12 +12,16 @@ wiki:
     children:
       - title: "Artefact"
         url: /artefact
+      - title: "Launch"
+        url: /launch
       - title: "Hulphbron Valley"
         url: /hulphbron-valley
   - title: "Getting our Games"
     children:
       - title: "Artefact Changelog"
         url: /changelogs/artefact
+      - title: "Launch Changelog"
+        url: /changelogs/launch
       - title: "Hulphbron Valley Changelog"
         url: /changelogs/hulphbron-valley
       - title: "Installation"
