@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/launch/banner.png
   actions:
     - label: "<i class='fas fa-download'></i> Releases"
-      url: "https://origami-games.github.io/changelogs/hulphbron-valley"
+      url: "https://origami-games.github.io/changelogs/launch"
 excerpt: A space-themed survival data pack for Minecraft
 ---
 
