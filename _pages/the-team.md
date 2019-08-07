@@ -11,7 +11,6 @@ author-andante:
   name     : "Andante"
   avatar   : "/assets/images/profile_pictures/andante.png"
   bio      : "Founder and coder"
-  location : "Norfolk, England"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -23,7 +22,6 @@ author-razorsharp:
   name     : "razorsharp"
   avatar   : "/assets/images/profile_pictures/razorsharp.png"
   bio      : "Founder, graphic designer and writer"
-  location : "America"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -32,7 +30,10 @@ author-texture_bacon:
   name     : "Texture Bacon"
   avatar   : "/assets/images/profile_pictures/texture_bacon.png"
   bio      : "Builder"
-  location : "America"
+author-qbert:
+  name     : "Qbert"
+  avatar   : "/assets/images/profile_pictures/qbert.png"
+  bio      : "Graphic Designer"
 #  links:
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
@@ -59,3 +60,10 @@ author-texture_bacon:
 ![texture_bacon.png](https://origami-games.github.io/assets/images/profile_pictures/texture_bacon.png)
 
 -----
+
+### **Qbert**
+*Graphic Designer*
+
+![qbert.png](https://origami-games.github.io/assets/images/profile_pictures/qbert.png)
+
+---
