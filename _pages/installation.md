@@ -16,7 +16,7 @@ sidebar:
   nav: wiki
 ---
 
-**Important:** These maps use Minecraft 1.14.3 or higher. You must play in the latest release. If you want a custom loading screen for resource-pack based maps, use [OptiFine](https://optifine.net/downloads).
+**Important:** These maps use specifically Minecraft 1.14.4 or higher. You must play in the latest release. If you want a custom loading screen for resource-pack based maps, use [OptiFine](https://optifine.net/downloads).
 {: .notice--warning}
 
 ## **Artefact**
