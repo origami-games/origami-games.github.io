@@ -16,10 +16,10 @@ sidebar:
   nav: wiki
 ---
 
-### [Installation Guide](https://origami-games.github.io/installation-guide#launch)
+#### [Installation Guide](https://origami-games.github.io/installation-guide#launch)
 
 ### [v0.0.1](https://github.com/origami-games/launch/tree/v0.0.1)
-[**Download Data**](https://github.com/origami-games/launch/releases/download/v0.0.1/launch-data-v0.0.1-bundled-crdb.zip) | [**Download Resources**](https://github.com/origami-games/launch/releases/download/v0.0.1/launch-resources-v0.0.1.zip)
+#### [**Download Data**](https://github.com/origami-games/launch/releases/download/v0.0.1/launch-data-v0.0.1-bundled-crdb.zip) | [**Download Resources**](https://github.com/origami-games/launch/releases/download/v0.0.1/launch-resources-v0.0.1.zip)
 - Added End Stone Fragments
   - Drops from End Stone
   - No functionality yet
