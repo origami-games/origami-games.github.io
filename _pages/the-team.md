@@ -10,7 +10,7 @@ classes: wide
 ---
 
 ### **Andante** *`#7922`*
-#### **Founder and Developer*
+#### **Founder and Developer**
 #### **[Twitter](https://twitter.com/Andantweets)** \| **[GitHub](https://github.com/AndanteDevs)**
 
 ![andante.png](https://origami-games.github.io/assets/images/profile_pictures/andante.png)
