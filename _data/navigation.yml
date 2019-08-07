@@ -16,7 +16,7 @@ wiki:
         url: /launch
       - title: "Hulphbron Valley"
         url: /hulphbron-valley
-  - title: "Getting our Games"
+  - title: "Try Out Our Stuff"
     children:
       - title: "Artefact Changelog"
         url: /changelogs/artefact
@@ -26,6 +26,7 @@ wiki:
         url: /changelogs/hulphbron-valley
       - title: "Installation"
         url: /installation-guide
+
 wiki-artefact:
   - title: "Artefact"
     url: /artefact/wiki/
