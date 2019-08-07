@@ -7,63 +7,49 @@ categories:
   - Information
 author_profile: false
 classes: wide
-author-andante:
-  name     : "Andante"
-  avatar   : "/assets/images/profile_pictures/andante.png"
-  bio      : "Founder and coder"
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Andantweets"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/AndanteDevs"
-author-razorsharp:
-  name     : "razorsharp"
-  avatar   : "/assets/images/profile_pictures/razorsharp.png"
-  bio      : "Founder, graphic designer and writer"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/acneindustries"
-author-texture_bacon:
-  name     : "Texture Bacon"
-  avatar   : "/assets/images/profile_pictures/texture_bacon.png"
-  bio      : "Builder"
-author-qbert:
-  name     : "Qbert"
-  avatar   : "/assets/images/profile_pictures/qbert.png"
-  bio      : "Graphic Designer"
-#  links:
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/acneindustries"
 ---
 
-### **Andante**
-*Founder and coder*
+### **Andante** *`#7922`*
+**Founder and Developer**
+
+**[Twitter](https://twitter.com/Andantweets)** | **[GitHub](https://github.com/AndanteDevs)**
 
 ![andante.png](https://origami-games.github.io/assets/images/profile_pictures/andante.png)
 
 -----
 
-### **razorsharp**
-*Founder, graphic designer and writer*
+### **razorsharp** *`#1238`*
+**Founder, Graphic Designer and Writer**  
+
+**[GitHub](https://github.com/acneindustries)**
 
 ![razorsharp.png](https://origami-games.github.io/assets/images/profile_pictures/razorsharp.png)
 
 -----
 
-### **Texture Bacon**
-*Builder*
+### **Texture Bacon** *`#9850`*
+**Builder**  
+
+**[Twitter](https://twitter.com/TextureBacon)** | **[GitHub](https://github.com/TextureBacon)**
 
 ![texture_bacon.png](https://origami-games.github.io/assets/images/profile_pictures/texture_bacon.png)
 
 -----
 
-### **Qbert**
-*Graphic Designer*
+### **Qbert** *`#7060`*
+**Graphic Designer**  
+
+**[Twitter](https://twitter.com/TheQbert)** | **[GitHub](https://github.com/TinyAtomss)**
 
 ![qbert.png](https://origami-games.github.io/assets/images/profile_pictures/qbert.png)
 
----
+-----
+
+### **Compsogbrickus** *`#3188`*
+**Lead Creative Designer**  
+
+**[GitHub](https://github.com/Compsogbrickus)**
+
+![compsogbrickus.png](https://origami-games.github.io/assets/images/profile_pictures/compsogbrickus.png)
+
+-----
