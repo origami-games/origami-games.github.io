@@ -40,8 +40,10 @@ launch:
 {% include feature_row id="launch" type="left" %}
 {% include feature_row id="hulphbron-valley" type="left" %}
 
-[**Cardboard**](https://origami-games.github.io/cardboard)  
+### [Cardboard](https://origami-games.github.io/cardboard)  
 Cardboard is a Minecraft development API made especially for Origami Games
+
+-----
 
 ## Coming Soon
 - The Wreckage
