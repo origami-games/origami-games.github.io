@@ -27,6 +27,12 @@ sidebar:
 - Added Magnetite tools
   - Crafted in Synthesiser in the same formation as other tools with Magnetite Lumps
   - Has magnetic properties - items nearby move towards you when held in the mainhand, offhand or on an armour stand
+- Added Gravity Pad
+  - Crafted with Smooth Stone, Magnetite Lumps and a Dropper
+    - `SDS`
+    - `MMM`
+    - `SSS`
+  - When powered with redstone, a Gravity Pad toggles the gravity of entities in the block above it every 0.5 seconds
 - Added a load of custom item models/textures (Clock's `CustomModelData` 11-20)
 - Added Log/Wood to Stripped Log/Wood in the Stonecutter
 - Added Looking Glass
