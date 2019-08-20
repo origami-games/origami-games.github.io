@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-artefact-mountain.png
-  caption: "Photo credit: [**razorsharp**](https://origami-games.github.io/team#razorsharp)"
+  caption: "Photo credit: [**razorsharp**](https://origami-games.github.io/team#razorsharp-1238)"
   actions:
     - label: "<i class='fas fa-download'></i> Releases"
       url: "https://origami-games.github.io/changelogs/artefact"
