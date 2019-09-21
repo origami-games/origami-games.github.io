@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/launch/banner.png
   actions:
     - label: "<i class='fas fa-download'></i> Releases"
-      url: "https://github.com/origami-games/launch/releases"
+      url: "https://curseforge.com/minecraft/customization/launch/files"
 excerpt: A space-themed survival data pack for Minecraft
 ---
 
