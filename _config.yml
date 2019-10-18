@@ -100,8 +100,8 @@ social:
 analytics:
   provider               : google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : 150348078-2
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "UA-150348078-2"
+    anonymize_ip         : false # true, false (default)
 
 
 # Site Author
@@ -110,7 +110,7 @@ author:
   avatar           : "/assets/images/logo_image.png"
   bio              : ""
   location         : "International"
-  email            : "productionsartefact@gmail.com"
+  email            : "origamigamestud@gmail.com"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
