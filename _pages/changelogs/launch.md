@@ -17,4 +17,4 @@ sidebar:
 ---
 
 #### [Installation Guide](https://origami-games.github.io/installation-guide#launch)
-#### [Releases](https://github.com/origami-games/launch/releases)
+#### [Releases](https://gitlab.com/origami-games/launch/releases)

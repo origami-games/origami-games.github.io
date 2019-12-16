@@ -39,7 +39,7 @@ sidebar:
 
 ## **Launch**
 ### Pack Installation
-- Unzip both of the folders downloaded from the [latest release page](https://github.com/origami-games/launch/releases/latest)
+- Unzip both of the folders downloaded from the [latest release page](https://gitlab.com/origami-games/launch/releases/latest)
 - Move the folder starting `launch-data` into the `datapacks` folder in your [world's saves folder](https://www.youtube.com/watch?v=wTAAbeWiC6M)
 - Move the folder starting `launch-resources` to your [resource packs folder](https://youtu.be/8rFK_HmzEdk?t=152)
 - Enable the resource pack and join your world to start playing!

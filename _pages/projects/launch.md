@@ -121,7 +121,7 @@ Launch is a space-themed survival data pack for vanilla Minecraft filled with to
     - Months and Seasons
         - Changes various game aspects in each season respectively; `randomTickSpeed`, `naturalRegeneration`, `doDaylightCycle` and difficulty
     - *Nether Quartz* now drops from *Nether Quartz Ore* at the same rate as *Redstone* from *Redstone Ore*
-- **[World Generation](https://github.com/origami-games/launch/issues/3)**
+- **[World Generation](https://gitlab.com/origami-games/launch/issues/3)**
     - Overworld
         - *Wolf Hideouts*
             - Spawns in snowy biomes with the *Wolf Rider* mob
