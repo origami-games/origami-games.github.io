@@ -48,11 +48,3 @@ classes: wide
 ![texture_bacon.png](https://origami-games.github.io/assets/images/profile_pictures/texture_bacon.png)
 
 -----
-
-### **grian** *`#6876`*
-#### **Graphic Designer**
-#### **[Twitter](https://twitter.com/grianguy32)** \| **[GitHub](https://github.com/grian32)**
-
-![grian.png](https://origami-games.github.io/assets/images/profile_pictures/grian.png)
-
------
