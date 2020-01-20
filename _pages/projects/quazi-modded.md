@@ -18,3 +18,11 @@ Quazi-Modded is a Minecraft mod that aims to add smaller, standalone features to
 - Planned release date: Early 2020
 - Mod Loader: Fabric
 - Version: 1.15+
+
+---
+
+![sugar-blocks.png](https://origami-games.github.io/assets/images/quazi-modded/sugar-blocks.png)
+
+---
+
+![charcoal-blocks.png](https://origami-games.github.io/assets/images/quazi-modded/charcoal-blocks.png)
