@@ -33,6 +33,7 @@ Our Charcoal Blocks (left) in comparison to the Coal Block (right)
 
 ---
 
-<img src="https://origami-games.github.io/assets/images/quazi-modded/reinforced-blocks.png" width=854px/>  
+<img src="https://origami-games.github.io/assets/images/quazi-modded/reinforced-blocks.png" width=854px/>
+
 **Reinforced Blocks**  
 Reinforced Stone can't be moved by pistons, and all reinforced blocks are immune to explosions!
