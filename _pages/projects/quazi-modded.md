@@ -21,12 +21,12 @@ Quazi-Modded is a Minecraft mod that aims to add smaller, standalone features to
 
 ---
 
-![sugar-blocks.png](https://origami-games.github.io/assets/images/quazi-modded/sugar-blocks.png)
-**Sugar Blocks**
+![sugar-blocks.png](https://origami-games.github.io/assets/images/quazi-modded/sugar-blocks.png)  
+**Sugar Blocks**  
 Some buzzy bees interacting with sugar 🐝
 
 ---
 
-![charcoal-blocks.png](https://origami-games.github.io/assets/images/quazi-modded/charcoal-blocks.png)
-**Charcoal Blocks**
+![charcoal-blocks.png](https://origami-games.github.io/assets/images/quazi-modded/charcoal-blocks.png)  
+**Charcoal Blocks**  
 Our Charcoal Blocks (left) in comparison to the Coal Block (right)
