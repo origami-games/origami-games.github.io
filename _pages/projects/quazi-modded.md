@@ -17,6 +17,8 @@ excerpt: A Minecraft mod that aims to add smaller, standalone features to surviv
 [![Discord Server](https://img.shields.io/discord/594411513457147904.svg?color=blueviolet&style=flat-square)](https://discord.io/origami)
 [![](https://img.shields.io/github/v/release/origami-games/quazi-modded?include_prereleases&style=flat-square)](https://github.com/origami-games/quazi-modded/releases)
 
+---
+
 ### What is Quazi-Modded?
 Quazi-Modded is a Minecraft mod that aims to add smaller, standalone features to survival mode. It has a focus on consistent, vanilla-style art direction and creating an atmosphere.
 

@@ -11,7 +11,7 @@ categories:
 author_profile: false
 
 quazi-modded:
-  - image_path: /assets/images/quazi-modded/banner.png
+  - image_path: /assets/images/quazi-modded/banner-feature-row.png
     alt: "quazi-modded/banner-feature-row.png"
     title: "Quazi-Modded"
     excerpt: 'A Minecraft mod that aims to add smaller, standalone features to survival mode'
