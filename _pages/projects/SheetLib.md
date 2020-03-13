@@ -6,8 +6,8 @@ header:
   actions:
     - label: "<i class='fas fa-download'></i> Releases"
       url: "https://curseforge.com/minecraft/mc-mods/SheetLib/files"
-excerpt: A space-themed survival data pack for Minecraft
+excerpt: A library for the Fabric mod loader, which contains a bunch of commonly used stuff
 ---
 
 ### What is SheetLib?
-SheetLib is a library for the Fabric API, which contains a bunch of commonly used stuff in Origami and beyond.
+SheetLib is a library for the Fabric mod loader, which contains a bunch of commonly used stuff in Origami and beyond.

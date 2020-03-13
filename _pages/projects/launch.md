@@ -12,6 +12,10 @@ header:
 excerpt: A space-themed survival data pack for Minecraft
 ---
 
+[![Discord Server](https://img.shields.io/discord/594411513457147904.svg?color=blueviolet)](https://discord.io/origami)
+[![](https://img.shields.io/github/v/release/origami-games/launch?include_prereleases&style=flat-square)](https://github.com/origami-games/launch/releases)
+[![Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Forigamigames&style=flat-square)](https://patreon.com/origamigames)
+
 ### What is Launch?
 Launch is a space-themed survival data pack for vanilla Minecraft filled with tonnes of features to easily combine with your world.
 
