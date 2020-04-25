@@ -51,3 +51,8 @@ description: 'An updated version of the mechanics of the popular minecraft map S
         </div>
     </a>
 </div>
+
+<br>
+<br>
+
+<div class='launch-page-credit'>Design and code from <a href='https://gm4.co/modules' class='launch-page-credit'>gm4.co/modules</a></div>

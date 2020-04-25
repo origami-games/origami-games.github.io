@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
 #resultContainer {
     width: 100%;
     max-width: 1075px;
@@ -212,4 +214,12 @@
 }
 div {
     display: block;
+}
+*.launch-page-credit {
+    color: rgb(85, 85, 85);
+    font-style: italic;
+    font-family: 'Raleway', sans-serif;
+}
+a.launch-page-credit {
+    color: rgb(105, 105, 105);
 }

@@ -50,7 +50,7 @@ img[src$="logo-svg.svg"] {
     -o-transition: opacity .25s ease-out;
 }
 *:any-link:hover {
-    opacity: 0.60;
+    opacity: 0.75;
     text-decoration: underline;
 }
 
