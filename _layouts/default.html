@@ -5,14 +5,14 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>{{ page.title }} | {{ site.title }}</title>
-        <meta name="description" content="{{ site.description }}" />
-        <link rel="stylesheet" href="{{ site.url }}/stylesheet.css" />
-        <link rel="icon" type="image/png" href="{{ site.url }}/assets/favicon.png" />
+        <meta name="description" content="{{ page.description }}" />
+        <link rel="stylesheet" href="/assets/stylesheet.css" />
+        <link rel="icon" type="image/png" href="/assets/favicon.png" />
     </head>
 
     <body>
         <header class='lighter-background'>
-            <a href={{ site.url }}> <h3> {{ site.title }} </h3> </a>
+            <a href=> <h3> {{ site.title }} </h3> </a>
             {% include navigation.html %}
         </header>
 
@@ -24,12 +24,5 @@
         </div>
 
         {% include footer.html %}
-
-        <!-- <script>            
-            function toggleTheme() {
-                var element = document.body;
-                element.classList.toggle("inverted");
-            }
-        </script> -->
     </body>
 </html>
