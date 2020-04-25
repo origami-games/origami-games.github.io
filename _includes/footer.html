@@ -1,19 +1,57 @@
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
+<footer class='lighter-background'>
+    <br>
+    <br>
 
-    {% if site.footer.links %}
-      {% for link in site.footer.links %}
-        {% if link.label and link.url %}
-          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
-        {% endif %}
-      {% endfor %}
-    {% endif %}
+    <div>
+        <!-- patreon -->
+        <a href="https://patreon.com/{{ site.patreon }}">
+            <i class='fab fa-patreon footer-icons'>
+            </i></a>‏‏‎ ‎
+        <!-- reddit -->
+        <!-- <a href="https://reddit.com/r/{{ site.reddit }}">
+            <i class='fab fa-reddit footer-icons'>
+            </i></a>‏‏‎ ‎ -->
+        <!-- github -->
+        <a href="https://github.com/{{ site.github }}">
+            <i class='fab fa-github footer-icons'>
+            </i></a>‏‏‎ ‎
+        <!-- discord -->
+        <a href="https://discord.gg/{{ site.discord }}">
+            <i class='fab fa-discord footer-icons'>
+            </i></a>‏‏‎ ‎
+        <!-- download -->
+        <!-- <a href="/download">
+            <i class='fas fa-download footer-icons'>
+            </i></a>‏‏‎ ‎ -->
+        <!-- youtube -->
+        <a href="https://youtube.com/{{ site.youtube }}">
+            <i class='fab fa-youtube footer-icons'>
+            </i></a>‏‏‎ ‎
 
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-  </ul>
-</div>
+        <br>
+        <br>
+        <br>
+        <br>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+        <p class='copyright' id='copyright'> Loading date... </p>
+        <script>
+            document.getElementById('copyright').innerHTML = '© ' + new Date().getFullYear() + ' <a href="{{ site.url }}">{{ site.title }}</a>';
+        </script>
+    </div>
+
+    <br>
+    <br>
+</footer>
+
+<!-- <br>
+
+<div style='text-align: center;'>
+    <button id='theme-btn' onclick='toggleTheme()'>
+        Toggle Theme
+    </button>
+    <script>
+        function toggleTheme() {
+            document.getElements
+        }
+    </script>
+</div> -->
