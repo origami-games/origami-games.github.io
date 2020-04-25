@@ -61,6 +61,7 @@ nav {
     list-style-type: none;
     font-weight: normal;
     line-height: normal;
+    margin-bottom: 15px;
 }
 ul.navigation {
     display: inline-flex;
@@ -182,3 +183,35 @@ button#download-btn-github {
 button#modules-btn {
     background-color: rgb(0, 183, 255);
 }
+
+
+
+.dropbtn {
+    border: transparent;
+    margin-left: 20%;
+    padding: 0px;
+    background-color: transparent;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+    background-color: #f1f1f1;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content a:hover {
+    background-color: #ddd;
+    text-decoration: none;
+}
+.dropdown:hover .dropdown-content { display: block; }
