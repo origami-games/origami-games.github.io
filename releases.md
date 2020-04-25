@@ -5,10 +5,6 @@ permalink: /releases
 navigation_weight: 2
 ---
 
-{{ site.description }}
-
-<hr class='top-separator'>
-
 <!--  project info start -->
 
 {% include project_info.html id='launch' name='Launch' description='An updated version of the mechanics of the popular minecraft map Space Expedition, developed by Caplex OathBros' type='customization' %}
