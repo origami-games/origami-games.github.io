@@ -3,7 +3,7 @@ layout: default
 
 title: 'Launch'
 permalink: /launch
-description: 'Origami Games is game development company that primarily makes Minecraft-related content, founded by Daniel Orr and Ian McFarlane in early 2019 to house their projects'
+description: 'An updated version of the mechanics of the popular minecraft map Space Expedition, developed by Caplex OathBros'
 ---
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
