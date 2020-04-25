@@ -1,11 +1,10 @@
 <div id='download-button'>
-    <a href='{{ site.curseforge }}{{ include.type }}/{{ include.id }}'>
+    {% if include.id == 'launch' %} {% include launch_modules_button.html %}
+
+    {% else %} <a href='{{ site.curseforge }}{{ include.type }}/{{ include.id }}'>
         <button id='download-btn-curseforge'>
             <i class='fa fa-download'></i> Download (CurseForge) </button>
-    </a>
-
-    <br>
-    <br>
+    </a> <br><br> {% endif %}
 
     <a id='download-btn-github-link' class='github'>
         <button id='download-btn-github' class='github'>
